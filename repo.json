@@ -5,7 +5,7 @@
   "plugins": [
     {
       "name": "UFlix",
-      "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/uflix-plugin/main/UFlix.cs3",
+      "url": "https://raw.githubusercontent.com/virokk/uflix-plugin/main/UFlix.cs3",
       "version": "1.0"
     }
   ]
