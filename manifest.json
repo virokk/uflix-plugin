@@ -1,0 +1,8 @@
+{
+  "manifestVersion": 1,
+  "name": "UFlix",
+  "id": "uflix",
+  "version": "1.0",
+  "description": "WebView plugin for uflix.cc",
+  "main": "UFlix.kt"
+}
